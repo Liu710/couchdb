@@ -1,0 +1,1 @@
+# Golang package for Couchdb
